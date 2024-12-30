@@ -1,0 +1,23 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "This is a project that is being created along watching chai aur backend series.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "javascript",
+    "chaiaurcode"
+  ],
+  "author": "Lalit Upadhyay",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
